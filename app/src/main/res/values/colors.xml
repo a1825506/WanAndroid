@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorHomeToolBar">#ffce3d3a</color>
+    <!--页面背景的颜色-->
+    <color name="color_page_bg">#F8F8F8</color>
 </resources>

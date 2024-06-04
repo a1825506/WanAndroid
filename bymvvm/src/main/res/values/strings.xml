@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="by_string_try_load">加载失败,点击重试</string>
+    <string name="by_string_loading">努力加载中…</string>
+    <string name="by_string_empty">未找到相关内容</string>
+    <string name="by_string_title">玩安卓</string>
+</resources>
