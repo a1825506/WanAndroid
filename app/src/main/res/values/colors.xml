@@ -5,4 +5,19 @@
     <color name="colorHomeToolBar">#ffce3d3a</color>
     <!--页面背景的颜色-->
     <color name="color_page_bg">#F8F8F8</color>
+    <!--主页tab背景-->
+    <color name="colorTabBg">#ffffffff</color>
+    <color name="colorTabTextCheck">#ffce3d3a</color>
+    <color name="colorTabTextNormal">#585858</color>
+    <color name="colorTabLine">#ffce3d3a</color>
+
+    <color name="colorTabBgDefault">#ffffffff</color>
+    <color name="colorWhite">#ffffffff</color>
+    <color name="colorSkeleton">#ffffffff</color>
+    <color name="colorSwipeRefresh">#ffffffff</color>
+    <color name="colorWhiteHalf">#bbffffff</color>
+    <!--item的5.0一下版本选择器颜色-->
+    <color name="itemLowBackground">#d9d9d9</color>
+    <!--首页分割线-->
+    <color name="colorHomeLine">#D4D4D4</color>
 </resources>
